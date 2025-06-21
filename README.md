@@ -1,17 +1,14 @@
 # ConsoleApp1
 
-Projeto simples de quiz desenvolvido em C# com perguntas e respostas, criado para fins de aprendizado e prática da linguagem.
-  
-## Funcionalidades
-- Perguntas de múltipla escolha
-- Validação de respostas
-- Feedback imediato ao usuário
+Projeto de quiz feito em C# com perguntas e respostas para fins de aprendizado.
 
-## Como executar
-1. Clone o repositório
-2. Abra o projeto no Visual Studio
-3. Compile e execute o programa
+## Como funciona
 
----
+O projeto roda no console e faz perguntas de múltipla escolha, validando as respostas do usuário e exibindo mensagens de feedback.
 
-Feito por Hanna.
+## Organização
+
+- `Program.cs` chama os testes
+- Pasta `Testes/` contém o código do quiz
+
+## Feito por Hanna
