@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1.Testes
 {
-    public static class Quiz
+    public static class quiz_matematica
     {
         public static void Executar()
         {
