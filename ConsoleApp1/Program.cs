@@ -7,7 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            quiz_de_perguntas.Executar();
+            Estruturas_de_repeticao.Executar();
         }
     }
 }
