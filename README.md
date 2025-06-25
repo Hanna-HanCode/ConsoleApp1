@@ -9,6 +9,8 @@ ConsoleApp1/
         quiz_matematica.cs
         Estruturas_de_repeticao.cs
         Cadastro_Animais.cs
+        Treinamento_Array.cs
+        Treinamento_Array1.cs
     obj/
     bin/
     README.md
@@ -16,14 +18,17 @@ ConsoleApp1/
 
 **Program.cs:** Arquivo principal, onde o projeto inicia e chama os testes.
 
-**Testes/quiz\_de\_perguntas.cs:** Contém o código de um quiz de perguntas e respostas.
-**Testes/quiz\_matematica.cs:** Contém o código de um quiz de matemática.
-**Testes/Estruturas\_de\_repeticao.cs:** Contém o código de funcionamento e explicador de for, while, do.
-**Testes/Cadastro\_Animais.cs:** Contém o código de prática de um cadastro de animais que pedi para que o chat gpt montasse uma lição de prática para reforçar ensinamentos de herança, classe abstrata, virtual e override, vista em curso.
+```
+    **Testes/quiz\_de\_perguntas.cs:** Contém o código de um quiz de perguntas e respostas.
+    **Testes/quiz\_matematica.cs:** Contém o código de um quiz de matemática.
+    **Testes/Estruturas\_de\_repeticao.cs:** Contém o código de funcionamento e explicador de for, while, do.
+    **Testes/Cadastro\_Animais.cs:** Contém o código de prática de um cadastro de animais que pedi para que o chat gpt montasse uma lição de prática para reforçar ensinamentos de herança, classe abstrata, virtual e override, vista em curso.
+    **Treinamento_Array(1)** Contém os códigos de prática de dois problemas que pedi ao chat gpt para treinamento de array, após uma aula.
 
 **obj/** e **bin/**: Pastas de build geradas automaticamente pelo Visual Studio.
 
 **README.md:** Documentação do projeto.
+```
 
 ---
 
