@@ -7,7 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Cadastro_Animais.Executar();
+            Treinamento_Array1.Executar();
         }
     }
 }
